@@ -1,16 +1,18 @@
-# diceapp
+## Roll Dice App 🎲
 
-A new Flutter project.
+A simple and fun roll dice app built using Flutter. This app simulates rolling a dice, generating random results on the screen. Ideal for games, learning, or just for fun!
 
-## Getting Started
+### Features:
+- Interactive UI with smooth animations
+- Tap to roll the dice and generate random numbers
+- Displays results instantly
+- Built with Flutter for cross-platform compatibility (iOS and Android)
 
-This project is a starting point for a Flutter application.
+### Technologies Used:
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### How to Use:
+1. Clone the repository
+2. Install dependencies using `flutter pub get`
+3. Run the app with `flutter run`
